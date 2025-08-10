@@ -2,7 +2,7 @@
 
 <h3 align="center">💼 Data Scientist | Big Data Specialist | Python Developer | AI Engineer</h3>
 <p align="center">🌍 Based in UAE.<br>🚀 Skilled in Machine Learning, AI, NLP, LLM, Big Data, and Cloud.</p>
----
+
 
 ## 🚀 About Me  
 Data Analyst and AI Specialist with 4+ years in **tech**, turning raw data into insights and deploying real-time analytics.  
