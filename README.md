@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Tebian Abdalgafar  
 
-💼 Data Scientist | Big Data Specialist | Python Developer | AI Engineer  
-🌍 Based in UAE.  
-🚀 Skilled in Machine Learning, AI, NLP,LLM, Big Data, and Cloud. 👋
+<h3 align="center">💼 Data Scientist | Big Data Specialist | Python Developer | AI Engineer</h3>
+<p align="center">🌍 Based in UAE.<br>🚀 Skilled in Machine Learning, AI, NLP, LLM, Big Data, and Cloud.</p>
 ---
 
 ## 🚀 About Me  
